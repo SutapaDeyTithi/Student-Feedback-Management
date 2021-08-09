@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1499360522 source:c:\users\asus\desktop\igraphics\igraphics\demo codes\codeblocks\imain.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1492542420 c:\users\asus\desktop\igraphics\igraphics\demo codes\codeblocks\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
